@@ -1,0 +1,28 @@
+{
+  "name": "suchresource",
+  "version": "0.0.0",
+  "description": "A configuration-based, VeryModel to hapi route generator, using mudskipper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronmccall/suchresource.git"
+  },
+  "keywords": [
+    "VeryModel",
+    "hapi",
+    "mudskipper",
+    "REST",
+    "resources"
+  ],
+  "author": "Aaron McCall <aaron@andyet.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronmccall/suchresource/issues"
+  },
+  "devDependencies": {
+    "verymodel": "~1.5.2"
+  }
+}
